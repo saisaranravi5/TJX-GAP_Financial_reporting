@@ -1,4 +1,4 @@
-# TJX-GAP_Financial_reporting
+# TJX-GAP_Financial_Analysis
 Overview
 This project presents a structured financial analysis of TJX Companies and GAP Inc., based on data sourced from their SEC-filed 10-K reports. Conducted as part of a financial reporting course, it uses Microsoft Excel for financial modeling, ratio evaluation, and year-over-year comparisons.
 
